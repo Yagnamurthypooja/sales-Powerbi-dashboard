@@ -1,4 +1,4 @@
-# HR DASHBOARD
+# HR DASHBOARD (https://app.powerbi.com/view?r=eyJrIjoiNjQ2ODI3ZGUtZDkyOS00Njg2LTk3NDEtOTk4OTcwMjczMWU1IiwidCI6IjRiZDMxNDhkLTY1ODAtNDYxMC05OTJkLWUyNzJhNWNiOTJkYSJ9)
 Description
 
 here is how you can analyze HR (Human Resources) data and create stunning dashboards using Power BI we are going to analyse
